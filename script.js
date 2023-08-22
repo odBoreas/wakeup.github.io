@@ -30,9 +30,10 @@ var page=0;
      "",
     "██████████████████████████████████",
     "19:00",
-    "The Matrix will have you...",
+    "Much Wow will happen...",
     "Follow the white rabbit.",
-    "Kanatnaya street, 6.",
+    "Kanatnaya Street, 6.,
+ "3rd floor",
   
   );
 
@@ -65,7 +66,7 @@ var typeTick = 0;
 var typeTickMax = 0;
 
 var minTick=5;
-var maxTick=25;
+var maxTick=30;
 var typeResetTick = 0;
 var typeResetMax = 200;
  
