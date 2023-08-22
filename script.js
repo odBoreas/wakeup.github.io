@@ -13,11 +13,11 @@ MODS by Victor Casals - VSDigital
 /*****************************************/
 var c = document.createElement('canvas');
 var ctx = c.getContext('2d');
-var cw = c.width = 400;
-var ch = c.height = 58;
+var cw = c.width = 500;
+var ch = c.height = 68;
 document.body.appendChild(c);
 
-ctx.font = 'normal 16px monospace';
+ctx.font = 'normal 23px monospace';
 ctx.textAlign = 'left';
 ctx.textBaseline = 'top';
 ctx.fillStyle = '#fff';
