@@ -65,8 +65,8 @@ var pointer = 0;
 var typeTick = 0;
 var typeTickMax = 0;
 
-var minTick=5;
-var maxTick=50;
+var minTick=1;
+var maxTick=25;
 var typeResetTick = 0;
 var typeResetMax = 200;
  
