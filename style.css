@@ -8,6 +8,6 @@ canvas {
   display: block;
   left: 50%;
   margin: -100px 0 0 -100px;
-  position: absolute;
+  position: center;
   top: 50%;
 }
