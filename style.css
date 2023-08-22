@@ -6,6 +6,7 @@ canvas {
   background: #101010;
   box-shadow: 0 0 0 2px #191919;
   display: block;
+  position: absolute;
   left: 50%;  
   top: 50%; 
   transform: translate(-50%, -50%);
