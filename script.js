@@ -28,14 +28,12 @@ var page=0;
   // ... multiple messages... //
   var messagesArray= new Array(
      "",
-    "",
-    "Rani,",
-    "Tum Sirf Meri Ho",
-    "Aur hamesha meri hi rahogi.",
-    "Knock, knock.",
     "██████████████████████████████████",
-    "Yaad rakhna hamesha ",
-    "is problem ko jhelna padega "
+    "19:00",
+    "The Matrix will have you...",
+    "Follow the white rabbit.",
+    "Kanatnaya street, 6.",
+  
   );
 
   // ...cursor style... //
@@ -67,7 +65,7 @@ var typeTick = 0;
 var typeTickMax = 0;
 
 var minTick=5;
-var maxTick=50;
+var maxTick=25;
 var typeResetTick = 0;
 var typeResetMax = 200;
  
