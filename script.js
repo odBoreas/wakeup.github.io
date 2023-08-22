@@ -17,7 +17,7 @@ var cw = c.width = 800;
 var ch = c.height = 98;
 document.body.appendChild(c);
 
-ctx.font = 'normal 23px monospace';
+ctx.font = 'normal 43px monospace';
 ctx.textAlign = 'left';
 ctx.textBaseline = 'top';
 ctx.fillStyle = '#fff';
