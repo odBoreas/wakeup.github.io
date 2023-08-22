@@ -6,8 +6,6 @@ canvas {
   background: #101010;
   box-shadow: 0 0 0 2px #191919;
   display: block;
-
-  margin: -100px 0 0 -100px;
   position: center;
   top: 50%;
 }
