@@ -66,7 +66,7 @@ var typeTick = 0;
 var typeTickMax = 0;
 
 var minTick=5;
-var maxTick=30;
+var maxTick=50;
 var typeResetTick = 0;
 var typeResetMax = 200;
  
