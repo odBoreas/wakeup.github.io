@@ -28,7 +28,7 @@ var page=0;
   // ... multiple messages... //
   var messagesArray= new Array(
      "",
-    "████████████████████████████████",
+    "████████████████████████████",
     "19:00",
     "Much Wow will happen...",
     "Follow the white rabbit.",
