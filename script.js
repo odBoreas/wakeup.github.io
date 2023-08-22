@@ -13,8 +13,8 @@ MODS by Victor Casals - VSDigital
 /*****************************************/
 var c = document.createElement('canvas');
 var ctx = c.getContext('2d');
-var cw = c.width = 500;
-var ch = c.height = 68;
+var cw = c.width = 800;
+var ch = c.height = 98;
 document.body.appendChild(c);
 
 ctx.font = 'normal 23px monospace';
